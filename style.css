@@ -33,7 +33,8 @@ h1 {
 }
 @media screen and (max-width: 470px) {
     body {
-      width: 450px;
+      width: 623px;
+      height: 538px;
     }
     .imge {
         display: block;
