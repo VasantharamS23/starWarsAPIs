@@ -1,4 +1,4 @@
-#StarWars_Charcter_Generator
+#StarWars_Charcter_Generator |
 Click a button to randomly generate star wars character |
 Tools & Technology used:
 1.HTML 5
