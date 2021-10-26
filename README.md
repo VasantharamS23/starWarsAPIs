@@ -1,5 +1,5 @@
-# jQueryAjaxRequest
-Explanation: Click a button to randomly generate star wars character
+#StarWars_Charcter_Generator
+Click a button to randomly generate star wars character |
 Tools & Technology used:
 1.HTML 5
 2.CSS 3
